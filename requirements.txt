@@ -1,0 +1,5 @@
+bluetooth
+pystray>=0.19.4
+Pillow>=8.0.0
+plyer>=2.0
+pywin32>=227; sys_platform == "win32"

@@ -1,0 +1,9 @@
+{
+  "absence_threshold": 10,
+  "scan_interval": 2,
+  "enable_notifications": true,
+  "enable_countdown": true,
+  "log_level": "INFO",
+  "address": "XX:XX:XX:XX:XX:XX",
+  "name": "演示设备"
+}
